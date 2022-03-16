@@ -1,9 +1,7 @@
 ```javascrip
    *Lautaro Cabeza*
-    age : 24,
-    hobbies :programing, reading, videogames.
-    languages :
-    goals :
-        inmediate : "Try to have 6 hours of sleep",
-        long_term : "Work as an independent software developer",
+    hobbies:videogames
+ 
+      
+      
   
