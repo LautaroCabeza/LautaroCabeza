@@ -1,7 +1,7 @@
-👍Hi,I’m _**Lautaro Cabeza**_
-* I am currently studing Avionics .
-* ***IMPA*** student.
-* Learning C
+Hi,I’m _**Lautaro Cabeza**_ 👍
+* 📚I’m an avionics student.
+* ✈️***IMPA*** student.
+* 🤓Learning C.
    
 
       
